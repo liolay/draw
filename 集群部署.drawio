@@ -4,6 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BG7vF_Q7h992CcUeKaFF-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="BG7vF_Q7h992CcUeKaFF-34" target="BG7vF_Q7h992CcUeKaFF-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BG7vF_Q7h992CcUeKaFF-55" value="备份文件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BG7vF_Q7h992CcUeKaFF-54">
+          <mxGeometry x="-0.1006" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BG7vF_Q7h992CcUeKaFF-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="9.56" y="1682" width="476.44" height="177" as="geometry" />
         </mxCell>
@@ -560,8 +568,19 @@
         <mxCell id="BG7vF_Q7h992CcUeKaFF-45" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="BG7vF_Q7h992CcUeKaFF-44" target="BG7vF_Q7h992CcUeKaFF-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="BG7vF_Q7h992CcUeKaFF-53" value="定时" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BG7vF_Q7h992CcUeKaFF-45">
+          <mxGeometry x="0.3277" y="-1" relative="1" as="geometry">
+            <mxPoint x="-4" y="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BG7vF_Q7h992CcUeKaFF-44" value="operator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8.56" y="1897" width="477.44" height="42" as="geometry" />
+          <mxGeometry x="8.56" y="1918" width="477.44" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="BG7vF_Q7h992CcUeKaFF-51" value="MinIO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1739" width="120" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="BG7vF_Q7h992CcUeKaFF-52" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Evil_Icons_User_Interface-2617/download-575.svg" vertex="1" parent="1">
+          <mxGeometry x="254.25" y="1877" width="37" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
