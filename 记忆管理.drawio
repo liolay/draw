@@ -311,7 +311,7 @@
         <mxCell id="EnGN5QStc-2RNr1DXiGJ-2" value="保留最近max_recent_token不压缩&lt;div&gt;5000&lt;/div&gt;" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="791" y="1262" width="309" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EnGN5QStc-2RNr1DXiGJ-3" value="启动token压缩阈值max_token_before_summary&lt;div&gt;5000&lt;/div&gt;" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="EnGN5QStc-2RNr1DXiGJ-3" value="启动token压缩阈值max_token_before_summary&lt;div&gt;4000&lt;/div&gt;" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="284" y="1262" width="503" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EnGN5QStc-2RNr1DXiGJ-4" value="summary_prompt" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -323,7 +323,7 @@
         <mxCell id="EnGN5QStc-2RNr1DXiGJ-7" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;800&lt;/font&gt;" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="288" y="1350" width="98" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EnGN5QStc-2RNr1DXiGJ-8" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;即将被压缩的消息 滚动压缩&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;3200&lt;/font&gt;&lt;/div&gt;" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="EnGN5QStc-2RNr1DXiGJ-8" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;即将被压缩的消息 滚动压缩&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;2200&lt;/font&gt;&lt;/div&gt;" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="1350" width="205" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZTZCvtmFxmUDXTJRj0tZ-1" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;循环至下次压缩&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#f8cecc, #7b1d18);glass=0;opacity=60;strokeColor=default;dashed=1;gradientColor=none;" vertex="1" parent="1">
