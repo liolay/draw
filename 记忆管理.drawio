@@ -305,7 +305,7 @@
         <mxCell id="TJHoriT6aeHiMVfhnyHX-50" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;glass=0;opacity=60;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="490" y="1290" width="205" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TJHoriT6aeHiMVfhnyHX-52" value="聊天阶段大发送到llm的token&lt;div&gt;9200+systemMessage&lt;/div&gt;" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="TJHoriT6aeHiMVfhnyHX-52" value="聊天阶段大发送到llm的token&lt;div&gt;8200+systemMessage&lt;/div&gt;" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="389" y="1402" width="711" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EnGN5QStc-2RNr1DXiGJ-2" value="保留最近max_recent_token不压缩&lt;div&gt;5000&lt;/div&gt;" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
