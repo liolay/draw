@@ -381,6 +381,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="GrDTkGhLANr7oOQPSAdc-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="收款模式&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="60" x="-190" y="425" as="geometry" />
+        </mxCell>
+        <mxCell id="GrDTkGhLANr7oOQPSAdc-54" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;收款模式&lt;/h1&gt;&lt;p&gt;1.统一收款&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp;必须设置余额是否支持跨租户使用,&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp;不允许:&amp;nbsp; &amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;2.租户直接收款&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp;异地就餐,&lt;/span&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;需要在管理租户开通 租户账户(用于跨租户扣款),结算账户(可选,仅自动结算需要, 否则 仅出账 不自动结算)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;同步就餐人员资料及规则&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="320" width="510" x="-200" y="480" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
