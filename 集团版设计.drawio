@@ -1,0 +1,210 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="58CPuSwAn8xe7vFqGXUe">
+    <mxGraphModel dx="1980" dy="1275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-86" edge="1" parent="1" source="FlDAP9ee7LeJxNUWg4oc-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="FlDAP9ee7LeJxNUWg4oc-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-87" edge="1" parent="1" source="FlDAP9ee7LeJxNUWg4oc-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="FlDAP9ee7LeJxNUWg4oc-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-119" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.006;exitY=0.118;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;exitPerimeter=0;elbow=vertical;strokeWidth=3;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="-142.51999999999998" />
+              <mxPoint x="360" y="292.48" />
+            </Array>
+            <mxPoint x="454.10599999999977" y="-142.4000000000001" as="sourcePoint" />
+            <mxPoint x="449" y="292.5350000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-120" connectable="0" parent="FlDAP9ee7LeJxNUWg4oc-119" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="5.回调扣款结果" vertex="1">
+          <mxGeometry relative="1" x="-0.1662" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="340" width="851" x="439" y="-180" as="geometry" />
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="管理租户" vertex="1">
+          <mxGeometry height="16.78" width="75.31" x="439" y="-179.99999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="统一收款账户" vertex="1">
+          <mxGeometry height="52.21" width="750" x="490" y="-30" as="geometry" />
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="全局人员资料" vertex="1">
+          <mxGeometry height="52.21" width="750" x="489.5" y="-160" as="geometry" />
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-62" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="70.11" width="266" x="490" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-56" parent="FlDAP9ee7LeJxNUWg4oc-62" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;glass=0;fillColor=#d5e8d4;" value="" vertex="1">
+          <mxGeometry height="70" width="266" y="0.10999999999999943" as="geometry" />
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-57" parent="FlDAP9ee7LeJxNUWg4oc-62" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="租户A" vertex="1">
+          <mxGeometry height="20" width="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-41" parent="FlDAP9ee7LeJxNUWg4oc-62" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="租户账户" vertex="1">
+          <mxGeometry height="31" width="97.35" x="20" y="26.999999999999986" as="geometry" />
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-59" parent="FlDAP9ee7LeJxNUWg4oc-62" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#f8cecc;strokeColor=#b85450;" value="结算账户" vertex="1">
+          <mxGeometry height="31" width="97.35" x="150" y="26.999999999999986" as="geometry" />
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-63" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="70.11" width="266" x="974" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-64" parent="FlDAP9ee7LeJxNUWg4oc-63" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;glass=0;fillColor=#d5e8d4;" value="" vertex="1">
+          <mxGeometry height="70" width="266" y="0.10999999999999943" as="geometry" />
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-65" parent="FlDAP9ee7LeJxNUWg4oc-63" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="租户B" vertex="1">
+          <mxGeometry height="20" width="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-66" parent="FlDAP9ee7LeJxNUWg4oc-63" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#f8cecc;strokeColor=#b85450;" value="结算账户" vertex="1">
+          <mxGeometry height="31" width="97.35" x="20" y="26.999999999999986" as="geometry" />
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-67" parent="FlDAP9ee7LeJxNUWg4oc-63" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="租户账户" vertex="1">
+          <mxGeometry height="31" width="97.35" x="150" y="26.999999999999986" as="geometry" />
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-68" edge="1" parent="1" source="FlDAP9ee7LeJxNUWg4oc-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="FlDAP9ee7LeJxNUWg4oc-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-71" connectable="0" parent="FlDAP9ee7LeJxNUWg4oc-68" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="出账" vertex="1">
+          <mxGeometry relative="1" x="0.2375" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-69" edge="1" parent="1" source="FlDAP9ee7LeJxNUWg4oc-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=1 4;" target="FlDAP9ee7LeJxNUWg4oc-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-70" connectable="0" parent="FlDAP9ee7LeJxNUWg4oc-69" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="自动结算" vertex="1">
+          <mxGeometry relative="1" x="0.3449" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-93" edge="1" parent="1" source="FlDAP9ee7LeJxNUWg4oc-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="FlDAP9ee7LeJxNUWg4oc-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-85" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="张三" vertex="1">
+          <mxGeometry height="40" width="57" x="457.31" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-91" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="110" width="266" x="1020" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-81" parent="FlDAP9ee7LeJxNUWg4oc-91" style="rounded=0;whiteSpace=wrap;html=1;glass=0;" value="" vertex="1">
+          <mxGeometry height="109.89" width="266" y="0.11000000000001364" as="geometry" />
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-82" parent="FlDAP9ee7LeJxNUWg4oc-91" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="租户A" vertex="1">
+          <mxGeometry height="20" width="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-83" parent="FlDAP9ee7LeJxNUWg4oc-91" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="用户账户" vertex="1">
+          <mxGeometry height="31" width="97.35" x="20" y="27" as="geometry" />
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-84" parent="FlDAP9ee7LeJxNUWg4oc-91" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="收款账户" vertex="1">
+          <mxGeometry height="31" width="97.35" x="150" y="27" as="geometry" />
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-90" parent="FlDAP9ee7LeJxNUWg4oc-91" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="人员资料" vertex="1">
+          <mxGeometry height="31" width="227" x="20" y="69" as="geometry" />
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-92" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="110" width="266" x="439" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-76" parent="FlDAP9ee7LeJxNUWg4oc-92" style="rounded=0;whiteSpace=wrap;html=1;glass=0;" value="" vertex="1">
+          <mxGeometry height="109.89" width="266" y="0.11000000000001364" as="geometry" />
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-77" parent="FlDAP9ee7LeJxNUWg4oc-92" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="租户A" vertex="1">
+          <mxGeometry height="20" width="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-78" parent="FlDAP9ee7LeJxNUWg4oc-92" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeColor=light-dark(#030303, #ffa9e0);dashed=1;dashPattern=8 8;fillColor=#d80073;fontColor=#ffffff;" value="用户账户" vertex="1">
+          <mxGeometry height="31" width="97.35" x="20" y="27" as="geometry" />
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-79" parent="FlDAP9ee7LeJxNUWg4oc-92" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#d80073;strokeColor=#000000;fontColor=#ffffff;dashed=1;dashPattern=8 8;" value="收款账户" vertex="1">
+          <mxGeometry height="31" width="97.35" x="150" y="27" as="geometry" />
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-88" parent="FlDAP9ee7LeJxNUWg4oc-92" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="人员资料" vertex="1">
+          <mxGeometry height="31" width="227" x="20" y="69" as="geometry" />
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-95" edge="1" parent="1" source="FlDAP9ee7LeJxNUWg4oc-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="FlDAP9ee7LeJxNUWg4oc-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-94" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="李四" vertex="1">
+          <mxGeometry height="40" width="57" x="630" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-97" parent="1" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="全局人员账户" vertex="1">
+          <mxGeometry height="52.21" width="750" x="490" y="-100" as="geometry" />
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-100" connectable="0" parent="1" style="group;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="" vertex="1">
+          <mxGeometry height="70" width="150" x="-140" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-98" parent="FlDAP9ee7LeJxNUWg4oc-100" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" value="租户直接收款" vertex="1">
+          <mxGeometry height="70" width="150" as="geometry" />
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-99" parent="FlDAP9ee7LeJxNUWg4oc-100" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="模式一" vertex="1">
+          <mxGeometry height="20" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-101" edge="1" parent="1" source="FlDAP9ee7LeJxNUWg4oc-98" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;fillColor=#d80073;strokeColor=#A50040;" target="FlDAP9ee7LeJxNUWg4oc-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-102" connectable="0" parent="FlDAP9ee7LeJxNUWg4oc-101" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="用户账户由租户管理" vertex="1">
+          <mxGeometry relative="1" x="-0.0662" y="4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-110" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#3f6cab, #198cc4);fontColor=#ffffff;strokeColor=#006EAF;" value="跨租户结算" vertex="1">
+          <mxGeometry height="20" width="100" x="10" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-112" edge="1" parent="1" source="FlDAP9ee7LeJxNUWg4oc-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;strokeWidth=3;" target="FlDAP9ee7LeJxNUWg4oc-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="250" />
+              <mxPoint x="420" y="-4" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-114" connectable="0" parent="FlDAP9ee7LeJxNUWg4oc-112" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1.充值&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;跨租户金额&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0594" y="1" as="geometry">
+            <mxPoint x="1" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-115" edge="1" parent="1" source="FlDAP9ee7LeJxNUWg4oc-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.527;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#1ba1e2;strokeColor=#006EAF;strokeWidth=3;" target="FlDAP9ee7LeJxNUWg4oc-81">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="486" y="500" />
+              <mxPoint x="1160" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-116" connectable="0" parent="FlDAP9ee7LeJxNUWg4oc-115" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="3.就餐" vertex="1">
+          <mxGeometry relative="1" x="-0.1051" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-117" edge="1" parent="1" source="FlDAP9ee7LeJxNUWg4oc-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;strokeWidth=3;" target="FlDAP9ee7LeJxNUWg4oc-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1340" y="295" />
+              <mxPoint x="1340" y="-10" />
+            </Array>
+            <mxPoint x="1380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-118" connectable="0" parent="FlDAP9ee7LeJxNUWg4oc-117" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="4.扣款" vertex="1">
+          <mxGeometry relative="1" x="0.0858" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-123" edge="1" parent="1" source="FlDAP9ee7LeJxNUWg4oc-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;strokeWidth=3;" target="FlDAP9ee7LeJxNUWg4oc-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FlDAP9ee7LeJxNUWg4oc-124" connectable="0" parent="FlDAP9ee7LeJxNUWg4oc-123" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="2. 更新允许跨租户&lt;div&gt;就餐人员&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.4653" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
