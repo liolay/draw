@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="58CPuSwAn8xe7vFqGXUe">
-    <mxGraphModel dx="1980" dy="1275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1769" dy="1158" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -923,11 +923,214 @@
             <mxPoint x="195" y="3320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p9Myqzr9mcZRnStRbe2i-224" parent="1" style="text;whiteSpace=wrap;fontSize=12;horizontal=1;" value="|----江苏省: 全省食堂要能够跨食堂就餐&#xa;|------南京市&#xa;|          1.每个食堂都是独立的&#xa;|          2.账户余额不能跨食堂使用&#xa;|          3.报表统计要能够按区统计&#xa;|------徐州市: 市政府要全面监管&#xa;|          1.市内机关食堂资金都可以通刷&#xa;|          2.按食堂做报表统计" vertex="1">
-          <mxGeometry height="130" width="300" x="939.5" y="750" as="geometry" />
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-48" edge="1" parent="1" source="wtATt6rTEAoXdzUgI9f5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="wtATt6rTEAoXdzUgI9f5-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p9Myqzr9mcZRnStRbe2i-225" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="" vertex="1">
-          <mxGeometry height="49.92" width="730" x="-320" y="1620" as="geometry" />
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-49" edge="1" parent="1" source="wtATt6rTEAoXdzUgI9f5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="wtATt6rTEAoXdzUgI9f5-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="" vertex="1">
+          <mxGeometry height="170" width="730" x="-270" y="1681.71" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-3" edge="1" parent="1" source="wtATt6rTEAoXdzUgI9f5-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.411;exitY=0.964;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#6a00ff;strokeColor=#3700CC;strokeWidth=2;exitPerimeter=0;" target="wtATt6rTEAoXdzUgI9f5-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="31.809999999999945" y="1816.75" />
+            </Array>
+            <mxPoint x="-70" y="1816.7492240764516" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-4" connectable="0" parent="wtATt6rTEAoXdzUgI9f5-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#60a917;labelBorderColor=#2D7600;fontColor=#ffffff;" value="出账/分账" vertex="1">
+          <mxGeometry relative="1" x="0.3339" y="-1" as="geometry">
+            <mxPoint x="-7" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-5" connectable="0" parent="wtATt6rTEAoXdzUgI9f5-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#6a00ff;fontColor=#ffffff;labelBorderColor=#3700CC;" value="出账/分账" vertex="1">
+          <mxGeometry relative="1" x="-0.2849" y="1" as="geometry">
+            <mxPoint x="-48" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-6" connectable="0" parent="wtATt6rTEAoXdzUgI9f5-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#fa6800;fontColor=#000000;labelBorderColor=#C73500;" value="出账/分账" vertex="1">
+          <mxGeometry relative="1" x="-0.289" y="-1" as="geometry">
+            <mxPoint x="-40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#3700CC;fillColor=#6a00ff;align=center;verticalAlign=middle;rounded=0;fontColor=#ffffff;" value="代收款账户" vertex="1">
+          <mxGeometry height="30" width="710" x="-260" y="1751.71" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="江苏省xx单位" vertex="1">
+          <mxGeometry height="14.29" width="84.1" x="-294.1" y="1681.71" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#10739e;fillColor=#b1ddf0;align=center;verticalAlign=middle;rounded=0;" value="允许跨租户就餐的用户" vertex="1">
+          <mxGeometry height="30" width="710" x="-259" y="1708.71" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#C73500;glass=0;fillColor=#fa6800;fontColor=#000000;" value="" vertex="1">
+          <mxGeometry height="49.92" width="140" x="310" y="1791.79" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="管理边界:云龙区" vertex="1">
+          <mxGeometry height="14.26" width="94.9" x="312.82" y="1791.71" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;dashPattern=8 8;" value="结算账户" vertex="1">
+          <mxGeometry height="22.108115818000286" width="54.89661654135339" x="316.99819548872176" y="1810.9654557124518" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="租户账户" vertex="1">
+          <mxGeometry height="22.108115818000286" width="54.89661654135339" x="384.5864661654135" y="1810.9654557124518" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-19" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="50" width="160" x="-259" y="1791.71" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-20" parent="wtATt6rTEAoXdzUgI9f5-19" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;glass=0;fillColor=#d5e8d4;" value="" vertex="1">
+          <mxGeometry height="49.92155184709742" width="160" y="0.07844815290258127" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-21" parent="wtATt6rTEAoXdzUgI9f5-19" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="租户A" vertex="1">
+          <mxGeometry height="14.26" width="45" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-22" parent="wtATt6rTEAoXdzUgI9f5-19" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;dashPattern=8 8;" value="结算账户" vertex="1">
+          <mxGeometry height="22.108115818000286" width="58.55639097744361" x="12.030075187969924" y="19.25545571245185" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-23" parent="wtATt6rTEAoXdzUgI9f5-19" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="租户账户" vertex="1">
+          <mxGeometry height="22.108115818000286" width="58.55639097744361" x="90.22556390977442" y="19.25545571245185" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-24" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6.368485300164707;" value="" vertex="1">
+          <mxGeometry height="25" width="31" x="-208.5" y="1680" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-46" edge="1" parent="1" source="wtATt6rTEAoXdzUgI9f5-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="wtATt6rTEAoXdzUgI9f5-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-47" edge="1" parent="1" source="wtATt6rTEAoXdzUgI9f5-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="wtATt6rTEAoXdzUgI9f5-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="50" width="240" x="-264.9" y="1902" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="管理边界: 南京市" vertex="1">
+          <mxGeometry height="20" width="100" x="-270" y="1902" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-28" parent="1" style="text;whiteSpace=wrap;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;align=center;fontSize=8;verticalAlign=middle;" value="统计聚合" vertex="1">
+          <mxGeometry height="20" width="45" x="-70.1" y="1902" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-29" parent="1" style="text;whiteSpace=wrap;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;align=center;fontSize=8;verticalAlign=middle;" value="收款模式 &#xa;余额独立+直接入账" vertex="1">
+          <mxGeometry height="20" width="84.1" x="-164.1" y="1902" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-30" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6.368485300164707;" value="" vertex="1">
+          <mxGeometry height="25" width="31" x="-255.5" y="1922" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-52" edge="1" parent="1" source="wtATt6rTEAoXdzUgI9f5-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="wtATt6rTEAoXdzUgI9f5-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-53" edge="1" parent="1" source="wtATt6rTEAoXdzUgI9f5-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="wtATt6rTEAoXdzUgI9f5-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-66" edge="1" parent="1" source="wtATt6rTEAoXdzUgI9f5-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="wtATt6rTEAoXdzUgI9f5-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="" vertex="1">
+          <mxGeometry height="50" width="240" x="220.00000000000003" y="1902" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="管理边界:徐州市" vertex="1">
+          <mxGeometry height="20" width="94.9" x="180" y="1902" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-34" parent="1" style="text;whiteSpace=wrap;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;align=center;fontSize=8;verticalAlign=middle;" value="统计聚合" vertex="1">
+          <mxGeometry height="20" width="36" x="424" y="1902" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-35" parent="1" style="text;whiteSpace=wrap;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;align=center;fontSize=8;verticalAlign=middle;" value="收款模式&#xa;余额共用+代收款" vertex="1">
+          <mxGeometry height="20" width="112.31" x="294.1" y="1902" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-36" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6.368485300164707;" value="" vertex="1">
+          <mxGeometry height="25" width="31" x="229.4" y="1922" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="租户C" vertex="1">
+          <mxGeometry height="50" width="112.31" x="100" y="2000" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-68" edge="1" parent="1" source="wtATt6rTEAoXdzUgI9f5-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="wtATt6rTEAoXdzUgI9f5-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-330" y="1770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-69" connectable="0" parent="wtATt6rTEAoXdzUgI9f5-68" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="设置用户" vertex="1">
+          <mxGeometry relative="1" x="-0.0809" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="租户A" vertex="1">
+          <mxGeometry height="50" width="160" x="-325" y="2000" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-79" edge="1" parent="1" source="wtATt6rTEAoXdzUgI9f5-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="wtATt6rTEAoXdzUgI9f5-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-80" connectable="0" parent="wtATt6rTEAoXdzUgI9f5-79" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="跨租户结算:&amp;nbsp; 依赖代收款账户" vertex="1">
+          <mxGeometry relative="1" x="0.0296" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="租户B" vertex="1">
+          <mxGeometry height="50" width="160" x="-125" y="2000" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-41" parent="1" style="text;whiteSpace=wrap;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;align=center;fontSize=8;verticalAlign=middle;" value="跨租户&#xa;结算边界" vertex="1">
+          <mxGeometry height="20" width="54.9" x="400" y="1676" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-43" parent="1" style="text;whiteSpace=wrap;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;align=center;fontSize=8;verticalAlign=middle;" value="统计聚合" vertex="1">
+          <mxGeometry height="20" width="54.9" x="339" y="1676" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-45" parent="1" style="text;whiteSpace=wrap;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;align=center;fontSize=8;verticalAlign=middle;" value="收款模式" vertex="1">
+          <mxGeometry height="20" width="54.9" x="279" y="1676" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="租户D" vertex="1">
+          <mxGeometry height="50" width="112.31" x="236.69" y="2000" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-54" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;用户账户&lt;/span&gt;" vertex="1">
+          <mxGeometry height="25" width="70" x="390" y="1937.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-64" edge="1" parent="1" source="wtATt6rTEAoXdzUgI9f5-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="wtATt6rTEAoXdzUgI9f5-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-65" edge="1" parent="1" source="wtATt6rTEAoXdzUgI9f5-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="wtATt6rTEAoXdzUgI9f5-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="50" width="240" x="413" y="2000" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-57" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="管理边界:云龙区" vertex="1">
+          <mxGeometry height="20" width="94.9" x="373" y="2000" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-58" parent="1" style="text;whiteSpace=wrap;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;align=center;fontSize=8;verticalAlign=middle;" value="统计聚合" vertex="1">
+          <mxGeometry height="20" width="36" x="617" y="2000" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-59" parent="1" style="text;whiteSpace=wrap;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;align=center;fontSize=8;verticalAlign=middle;" value="收款模式&#xa;余额共用+直接入账" vertex="1">
+          <mxGeometry height="20" width="112.31" x="487.1" y="2000" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-60" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6.368485300164707;" value="" vertex="1">
+          <mxGeometry height="25" width="31" x="422.4" y="2020" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-61" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;用户账户&lt;/span&gt;" vertex="1">
+          <mxGeometry height="25" width="70" x="583" y="2035.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="租户C" vertex="1">
+          <mxGeometry height="50" width="112.31" x="413" y="2110" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="租户D" vertex="1">
+          <mxGeometry height="50" width="112.31" x="549.69" y="2110" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-67" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#C73500;fillColor=#fa6800;align=center;verticalAlign=middle;rounded=0;fontColor=#000000;" value="收款账户" vertex="1">
+          <mxGeometry height="14.29" width="100" x="480" y="2029.71" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;glass=0;fillColor=#d5e8d4;" value="" vertex="1">
+          <mxGeometry height="49.92" width="54.9" x="40" y="1790.08" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="租户B" vertex="1">
+          <mxGeometry height="14.26" width="42.81" x="40" y="1790" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-73" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;glass=0;fillColor=#cce5ff;" value="" vertex="1">
+          <mxGeometry height="49.92" width="140" x="150" y="1791.87" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-74" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="管理边界:徐州市" vertex="1">
+          <mxGeometry height="14.26" width="94.9" x="152.82" y="1791.79" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-75" parent="1" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;dashPattern=8 8;" value="结算账户" vertex="1">
+          <mxGeometry height="22.108115818000286" width="54.89661654135339" x="156.99819548872176" y="1811.0454557124517" as="geometry" />
+        </mxCell>
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-76" parent="1" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="租户账户" vertex="1">
+          <mxGeometry height="22.108115818000286" width="54.89661654135339" x="224.58646616541353" y="1811.0454557124517" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
