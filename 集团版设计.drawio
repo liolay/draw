@@ -1078,7 +1078,7 @@
         <mxCell id="wtATt6rTEAoXdzUgI9f5-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="租户D" vertex="1">
           <mxGeometry height="50" width="112.31" x="236.69" y="2000" as="geometry" />
         </mxCell>
-        <mxCell id="wtATt6rTEAoXdzUgI9f5-54" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;用户账户&lt;/span&gt;" vertex="1">
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-54" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;fontSize=8;" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;用户资料/账户&lt;/span&gt;" vertex="1">
           <mxGeometry height="25" width="70" x="390" y="1937.5" as="geometry" />
         </mxCell>
         <mxCell id="wtATt6rTEAoXdzUgI9f5-64" edge="1" parent="1" source="wtATt6rTEAoXdzUgI9f5-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="wtATt6rTEAoXdzUgI9f5-62">
@@ -1102,8 +1102,8 @@
         <mxCell id="wtATt6rTEAoXdzUgI9f5-60" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6.368485300164707;" value="" vertex="1">
           <mxGeometry height="25" width="31" x="422.4" y="2020" as="geometry" />
         </mxCell>
-        <mxCell id="wtATt6rTEAoXdzUgI9f5-61" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;用户账户&lt;/span&gt;" vertex="1">
-          <mxGeometry height="25" width="70" x="583" y="2035.5" as="geometry" />
+        <mxCell id="wtATt6rTEAoXdzUgI9f5-61" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;fontSize=8;" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;用户资料/账户&lt;/span&gt;" vertex="1">
+          <mxGeometry height="25" width="54.9" x="598.1" y="2035.5" as="geometry" />
         </mxCell>
         <mxCell id="wtATt6rTEAoXdzUgI9f5-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="租户C" vertex="1">
           <mxGeometry height="50" width="112.31" x="413" y="2110" as="geometry" />
